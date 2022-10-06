@@ -14,7 +14,7 @@ const locations = [
   { center: [10.408773, 63.422091], name: "Trondhjæm" },
   { center: [7.993744574800331, 58.145072155868036], name: "Kristiansand" },
   { center: [10.457060447232827, 61.123876982347184], name: "LilleHammer" },
-  { center: [5.341447457437576, 60.372653021429045], name: "Bergen" },
+  { center: [5.341447457437576, 60.372653021429045], name: "Bærgen" },
 ];
 
 const LocationMenu = (props) => {
